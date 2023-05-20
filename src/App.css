@@ -1,0 +1,20 @@
+body{
+    margin: 50px;
+}
+
+
+.images{
+    width: 15px;
+}
+
+thead{
+text-align: left;
+
+}
+table,td,th{
+    border: 1px solid lightgray;
+    padding: 0.5rem;
+}
+table{
+    border-collapse: collapse;
+}
